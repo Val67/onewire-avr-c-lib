@@ -1,0 +1,4 @@
+A library to manipulate 1-wire device on AVR microcontrollers.
+
+The pin used to communicate with the 1-wire device needs to be set in OneWire.h
+
